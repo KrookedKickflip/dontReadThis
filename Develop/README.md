@@ -1,32 +1,32 @@
 
-  # 
-  rfdvgdb
+  # Title
+  read me generator
 
   ## Description
-  vdfvdvfdvdf
+  creates a readme file from the command line
 
   ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
+  - [Installation]
+  - [Usage]
+  - [License]
+  - [Contributing]
+  - [Tests]
+  - [Questions]
 
   ## Installation
-  fvdfvdfvfvdfv
+  npm i
 
   ## Usage
-  dfvfvdfvdfv
+  answer prompts from command line
 
   ## License
   MIT
-  
+
   ## Contributing
-  dfvdf
+  me
 
   ## Tests
-  dfvfdv
+  multiple tests 
 
   ## Questions
-  dfvdf
+  why so hard
