@@ -3,7 +3,7 @@
   read me generator
 
   ## Description
-  creates a readme file from the command line
+  it generates a read me through the terminal
 
   ## Table of Contents
   - [Installation]
@@ -14,19 +14,19 @@
   - [Questions]
 
   ## Installation
-  npm i
+  npm i in the terminal
 
   ## Usage
-  answer prompts from command line
+  you run index.js in the terminal and answer the prompts.
 
   ## License
   MIT
 
   ## Contributing
-  me
+  just me and the starter code
 
   ## Tests
-  multiple tests 
+  a lot of tests to get it working
 
   ## Questions
-  why so hard
+  none
